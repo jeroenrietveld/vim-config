@@ -1,1 +1,1 @@
-colorscheme a
+set transparency=15
