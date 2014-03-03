@@ -21,6 +21,8 @@ Bundle "tpope/vim-fugitive"
 Bundle "vim-scripts/ZoomWin"
 
 "Syntax bundles
+Bundle "lunaru/vim-twig"
+Bundle "kchmck/vim-coffee-script"
 
 "Settings
 colorscheme goldfish
