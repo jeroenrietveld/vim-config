@@ -19,6 +19,7 @@ Bundle "scrooloose/syntastic"
 Bundle "Lokaltog/vim-easymotion"
 Bundle "tpope/vim-fugitive"
 Bundle "vim-scripts/ZoomWin"
+Bundle "terryma/vim-multiple-cursors"
 
 "Syntax bundles
 Bundle "lunaru/vim-twig"
