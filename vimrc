@@ -20,6 +20,7 @@ Bundle "Lokaltog/vim-easymotion"
 Bundle "tpope/vim-fugitive"
 Bundle "vim-scripts/ZoomWin"
 Bundle "terryma/vim-multiple-cursors"
+Bundle "tomtom/tcomment_vim"
 
 "Syntax bundles
 Bundle "lunaru/vim-twig"
