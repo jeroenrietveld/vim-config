@@ -25,6 +25,7 @@ Bundle "tomtom/tcomment_vim"
 "Syntax bundles
 Bundle "lunaru/vim-twig"
 Bundle "kchmck/vim-coffee-script"
+Bundle "lambdatoast/elm.vim"
 
 "Settings
 colorscheme goldfish
@@ -33,3 +34,4 @@ colorscheme goldfish
 autocmd vimenter * NERDTree
 
 filetype plugin indent on
+syntax on
